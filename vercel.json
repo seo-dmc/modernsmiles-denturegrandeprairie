@@ -1,11 +1,14 @@
 {
-  "version": 2,
   "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
     {
-      "source": "/(.*)",
-      "destination": "/$1"
+      "source": "/blog",
+      "destination": "/blog/index.html"
+    },
+    {
+      "source": "/(services|areas-we-serve|blog)/:path*",
+      "destination": "/$1/:path*.html"
     }
   ]
 }
