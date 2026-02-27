@@ -18,7 +18,7 @@
   },
   "website": {
     "websiteSlug": "modersmiles-denturesgrandeprairie",
-    "hostingProvider": "netlify.app",
+    "hostingProvider": "vercel.app",
     "areasSlug": "areas-we-serve",
     "aiModel": "openai/gpt-5-mini",
     "buildingNetwork": false,

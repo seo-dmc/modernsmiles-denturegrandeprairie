@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Performance optimization
-Sitemap: https://modersmiles-denturesgrandeprairie.netlify.app/sitemap.xml
+Sitemap: https://modernsmiles-dentures.vercel.app/sitemap.xml
 
 # Block common bot traps
 Disallow: /cgi-bin/
